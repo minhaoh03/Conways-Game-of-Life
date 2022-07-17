@@ -1,2 +1,2 @@
 # Conways-Game-of-Life
-Python
+Made using python, first python project.
